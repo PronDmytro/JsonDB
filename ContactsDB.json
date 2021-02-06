@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Isaac",
+      "surname": "Newton",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 2,
+      "name": "Alexander",
+      "surname": "Graham Bell",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 3,
+      "name": "Leonhard",
+      "surname": "Euler",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 4,
+      "name": "Andre-Marie",
+      "surname": "Ampere",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 5,
+      "name": "Michael",
+      "surname": "Faraday",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 6,
+      "name": "Blaise",
+      "surname": "Pascal",
+      "telnumber": "+380665423678"
+    },
+    {
+      "id": 7,
+      "name": "Anders",
+      "surname": "Celsius",
+      "telnumber": "+380665423678"
+    }
+    ,
+    {
+      "id": 8,
+      "name": "James",
+      "surname": "Watt",
+      "telnumber": "+380665423678"
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Alessandro",
+      "surname": "Volta",
+      "telnumber": "+380665423678"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Joseph",
+      "surname": "Henry",
+      "telnumber": "+380665423678"
+    }
+  ]
