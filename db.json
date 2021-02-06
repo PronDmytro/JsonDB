@@ -2,8 +2,8 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Isaac",
-      "surname": "Newton",
+      "Name": "Isaac",
+      "Surname": "Newton",
       "telnumber": "+380665423678"
     },
     {
