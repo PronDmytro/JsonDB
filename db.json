@@ -4,64 +4,74 @@
       "id": 1,
       "Name": "Isaac",
       "Surname": "Newton",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":true
     },
     {
       "id": 2,
       "Name": "Alexander",
       "Surname": "Graham Bell",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     },
     {
       "id": 3,
       "Name": "Leonhard",
       "Surname": "Euler",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     },
     {
       "id": 4,
       "Name": "Andre-Marie",
       "Surname": "Ampere",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     },
     {
       "id": 5,
       "Name": "Michael",
       "Surname": "Faraday",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     },
     {
       "id": 6,
       "Name": "Blaise",
       "Surname": "Pascal",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     },
     {
       "id": 7,
       "Name": "Anders",
       "Surname": "Celsius",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     }
     ,
     {
       "id": 8,
       "Name": "James",
       "Surname": "Watt",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     }
     ,
     {
       "id": 9,
       "Name": "Alessandro",
       "Surname": "Volta",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     }
     ,
     {
       "id": 10,
       "Name": "Joseph",
       "Surname": "Henry",
-      "Mobile number": "+380665423678"
+      "Mobile number": "+380665423678",
+      "fav":false
     }
   ]
 }
