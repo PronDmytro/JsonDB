@@ -5,7 +5,8 @@
       "name": "Alessandro",
       "surname": "Volta",
       "mobilenum": "+380665423678",
-      "fav":false
+      "fav":false,
+      "firstLetter":"a"
     },
     {
       "id": 2,
