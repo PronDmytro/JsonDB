@@ -13,8 +13,7 @@
       "name": "Alexander",
       "surname": "Graham Bell",
       "mobilenum": "+380665423678",
-      "fav":false,
-      "firstLetter":"A"
+      "fav":false
     },
     {
       "id": 3,
@@ -65,14 +64,16 @@
       "name": "Leonhard",
       "surname": "Euler",
       "mobilenum": "+380665423678",
-      "fav":false
+      "fav":false,
+      "firstLetter":"L"
     },
     {
       "id": 10,
       "name": "Michael",
       "surname": "Faraday",
       "mobilenum": "+380665423678",
-      "fav":true
+      "fav":true,
+      "firstLetter":"M"
     }    
   ]
 }
