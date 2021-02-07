@@ -2,10 +2,10 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Isaac",
-      "surname": "Newton",
+      "name": "Alessandro",
+      "surname": "Volta",
       "mobilenum": "+380665423678",
-      "fav":true
+      "fav":false
     },
     {
       "id": 2,
@@ -16,8 +16,8 @@
     },
     {
       "id": 3,
-      "name": "Leonhard",
-      "surname": "Euler",
+      "name": "Anders",
+      "surname": "Celsius",
       "mobilenum": "+380665423678",
       "fav":false
     },
@@ -30,48 +30,44 @@
     },
     {
       "id": 5,
-      "name": "Michael",
-      "surname": "Faraday",
-      "mobilenum": "+380665423678",
-      "fav":false
-    },
-    {
-      "id": 6,
       "name": "Blaise",
       "surname": "Pascal",
       "mobilenum": "+380665423678",
       "fav":false
     },
     {
-      "id": 7,
-      "name": "Anders",
-      "surname": "Celsius",
+      "id": 6,
+      "name": "Isaac",
+      "surname": "Newton",
       "mobilenum": "+380665423678",
-      "fav":false
-    }
-    ,
+      "fav":true
+    },
     {
-      "id": 8,
+      "id": 7,
       "name": "James",
       "surname": "Watt",
       "mobilenum": "+380665423678",
       "fav":false
-    }
-    ,
-    {
-      "id": 9,
-      "name": "Alessandro",
-      "surname": "Volta",
-      "mobilenum": "+380665423678",
-      "fav":false
-    }
-    ,
-    {
-      "id": 10,
+    },{
+      "id": 8,
       "name": "Joseph",
       "surname": "Henry",
       "mobilenum": "+380665423678",
       "fav":false
-    }
+    },
+    {
+      "id": 9,
+      "name": "Leonhard",
+      "surname": "Euler",
+      "mobilenum": "+380665423678",
+      "fav":false
+    },
+    {
+      "id": 10,
+      "name": "Michael",
+      "surname": "Faraday",
+      "mobilenum": "+380665423678",
+      "fav":true
+    }    
   ]
 }
