@@ -88,7 +88,7 @@
       "mobilenum": "+380665423678",
       "fav": true,
       "section": "Section: M",
-      "letter": "Section: M"
+      "letter": "M"
     }
   ],
   "contacts2": [
@@ -97,70 +97,80 @@
       "name": "Alessandro",
       "surname": "Volta",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "A"
     },
     {
       "id": 2,
       "name": "Alexander",
       "surname": "Graham Bell",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "A"
     },
     {
       "id": 3,
       "name": "Anders",
       "surname": "Celsius",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "A"
     },
     {
       "id": 4,
       "name": "Andre-Marie",
       "surname": "Ampere",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "A"
     },
     {
       "id": 5,
       "name": "Blaise",
       "surname": "Pascal",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "B"
     },
     {
       "id": 6,
       "name": "Isaac",
       "surname": "Newton",
       "mobilenum": "+380665423678",
-      "fav": true
+      "fav": true,
+      "firstLetter": "I"
     },
     {
       "id": 7,
       "name": "James",
       "surname": "Watt",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "J"
     },
     {
       "id": 8,
       "name": "Joseph",
       "surname": "Henry",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "J"
     },
     {
       "id": 9,
       "name": "Leonhard",
       "surname": "Euler",
       "mobilenum": "+380665423678",
-      "fav": false
+      "fav": false,
+      "firstLetter": "L"
     },
     {
       "id": 10,
       "name": "Michael",
       "surname": "Faraday",
       "mobilenum": "+380665423678",
-      "fav": true
+      "fav": true,
+      "firstLetter": "M"
     }
   ]
 }
