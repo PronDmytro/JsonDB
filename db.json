@@ -6,7 +6,7 @@
       "surname": "Volta",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: A",
+      "section":"A",
       "letter":"A"
     },
     {
@@ -15,7 +15,7 @@
       "surname": "Graham Bell",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: A",
+      "section":"A",
       "letter":"A"
     },
     {
@@ -24,7 +24,7 @@
       "surname": "Celsius",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: A",
+      "section":"A",
       "letter":"A"
     },
     {
@@ -33,7 +33,7 @@
       "surname": "Ampere",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: A",
+      "section":"A",
       "letter":"A"
     },
     {
@@ -42,7 +42,7 @@
       "surname": "Pascal",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: B",
+      "section":"B",
       "letter":"B"
     },
     {
@@ -51,7 +51,7 @@
       "surname": "Newton",
       "mobilenum": "+380665423678",
       "fav":true,
-      "section":"Section: I",
+      "section":"I",
       "letter":"I"
     },
     {
@@ -60,7 +60,7 @@
       "surname": "Watt",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: J",
+      "section":"J",
       "letter":"J"
     },{
       "id": 8,
@@ -68,7 +68,7 @@
       "surname": "Henry",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: J",
+      "section":"J",
       "letter":"J"
     },
     {
@@ -77,7 +77,7 @@
       "surname": "Euler",
       "mobilenum": "+380665423678",
       "fav":false,
-      "section":"Section: L",
+      "section":"L",
       "letter":"L"
     },
     {
@@ -86,7 +86,7 @@
       "surname": "Faraday",
       "mobilenum": "+380665423678",
       "fav":true,
-      "section":"Section: M",
+      "section":"M",
       "letter":"M"
     }    
   ]
